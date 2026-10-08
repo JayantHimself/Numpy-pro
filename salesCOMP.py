@@ -25,3 +25,5 @@ below_average = months[sales < np.mean(sales)]
 
 print("above avg sales in particular:",above_average)
 print("below avg sales in particular:",below_average)
+print(" 
+      DONE")
