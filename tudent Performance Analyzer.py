@@ -1,3 +1,4 @@
+            ########     MINI PROJECT USING PYTHON + NUMPY #######3
 import numpy as np
 
 # Student names
